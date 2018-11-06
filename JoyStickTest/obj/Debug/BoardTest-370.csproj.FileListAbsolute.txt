@@ -1,0 +1,39 @@
+D:\370\BoardTest-370\BoardTest-370\obj\Debug\BoardTest_370.frmMain.resources
+D:\370\BoardTest-370\BoardTest-370\obj\Debug\BoardTest_370.Properties.Resources.resources
+D:\370\BoardTest-370\BoardTest-370\obj\Debug\BoardTest-370.csproj.GenerateResource.Cache
+D:\370\BoardTest-370\BoardTest-370\bin\Debug\Config\Config.ini
+D:\370\BoardTest-370\BoardTest-370\bin\Debug\370主板测试.exe.config
+D:\370\BoardTest-370\BoardTest-370\bin\Debug\370主板测试.exe
+D:\370\BoardTest-370\BoardTest-370\bin\Debug\370主板测试.pdb
+D:\370\BoardTest-370\BoardTest-370\obj\Debug\370主板测试.exe
+D:\370\BoardTest-370\BoardTest-370\obj\Debug\370主板测试.pdb
+D:\370\BoardTest-370\BoardTest-370\obj\Debug\BoardTest-370.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\370\BoardTest-370\bin\Debug\Config\Config.ini
+C:\Users\Administrator\Desktop\370\BoardTest-370\bin\Debug\370主板测试.exe.config
+C:\Users\Administrator\Desktop\370\BoardTest-370\bin\Debug\370主板测试.exe
+C:\Users\Administrator\Desktop\370\BoardTest-370\bin\Debug\370主板测试.pdb
+C:\Users\Administrator\Desktop\370\BoardTest-370\obj\Debug\BoardTest_370.frmMain.resources
+C:\Users\Administrator\Desktop\370\BoardTest-370\obj\Debug\BoardTest_370.Properties.Resources.resources
+C:\Users\Administrator\Desktop\370\BoardTest-370\obj\Debug\BoardTest-370.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\370\BoardTest-370\obj\Debug\370主板测试.exe
+C:\Users\Administrator\Desktop\370\BoardTest-370\obj\Debug\370主板测试.pdb
+E:\yangxiaoli\370\BoardTest-370\bin\Debug\Config\Config.ini
+E:\yangxiaoli\370\BoardTest-370\bin\Debug\370主板测试.exe.config
+E:\yangxiaoli\370\BoardTest-370\bin\Debug\370主板测试.exe
+E:\yangxiaoli\370\BoardTest-370\bin\Debug\370主板测试.pdb
+E:\yangxiaoli\370\BoardTest-370\obj\Debug\BoardTest_370.frmMain.resources
+E:\yangxiaoli\370\BoardTest-370\obj\Debug\BoardTest_370.Properties.Resources.resources
+E:\yangxiaoli\370\BoardTest-370\obj\Debug\BoardTest-370.csproj.GenerateResource.Cache
+E:\yangxiaoli\370\BoardTest-370\obj\Debug\370主板测试.exe
+E:\yangxiaoli\370\BoardTest-370\obj\Debug\370主板测试.pdb
+E:\yangxiaoli\370 - 副本\BoardTest-370\bin\Debug\Config\Config.ini
+E:\yangxiaoli\370 - 副本\BoardTest-370\bin\Debug\370主板测试.exe.config
+E:\yangxiaoli\370 - 副本\BoardTest-370\bin\Debug\370主板测试.exe
+E:\yangxiaoli\370 - 副本\BoardTest-370\bin\Debug\370主板测试.pdb
+E:\yangxiaoli\370 - 副本\BoardTest-370\obj\Debug\BoardTest-370.csprojResolveAssemblyReference.cache
+E:\yangxiaoli\370 - 副本\BoardTest-370\obj\Debug\BoardTest_370.frmMain.resources
+E:\yangxiaoli\370 - 副本\BoardTest-370\obj\Debug\BoardTest_370.Properties.Resources.resources
+E:\yangxiaoli\370 - 副本\BoardTest-370\obj\Debug\BoardTest-370.csproj.GenerateResource.Cache
+E:\yangxiaoli\370 - 副本\BoardTest-370\obj\Debug\370主板测试.exe
+E:\yangxiaoli\370 - 副本\BoardTest-370\obj\Debug\370主板测试.pdb
+E:\yangxiaoli\370 - 副本\BoardTest-370\obj\Debug\BoardTest_370.ucJoyStick.resources

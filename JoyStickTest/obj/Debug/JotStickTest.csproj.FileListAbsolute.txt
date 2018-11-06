@@ -1,0 +1,26 @@
+E:\yangxiaoli\370 - 副本\BoardTest-370\bin\Debug\Config\Config.ini
+E:\yangxiaoli\370 - 副本\BoardTest-370\bin\Debug\JoyStick测试.exe.config
+E:\yangxiaoli\370 - 副本\BoardTest-370\bin\Debug\JoyStick测试.exe
+E:\yangxiaoli\370 - 副本\BoardTest-370\bin\Debug\JoyStick测试.pdb
+E:\yangxiaoli\370 - 副本\BoardTest-370\bin\Debug\Microsoft.DirectX.DirectInput.dll
+E:\yangxiaoli\370 - 副本\BoardTest-370\bin\Debug\Microsoft.DirectX.dll
+E:\yangxiaoli\370 - 副本\BoardTest-370\obj\Debug\JoyStickTest.frmMain.resources
+E:\yangxiaoli\370 - 副本\BoardTest-370\obj\Debug\JoyStickTest.Properties.Resources.resources
+E:\yangxiaoli\370 - 副本\BoardTest-370\obj\Debug\JoyStickTest.ucJoyStick.resources
+E:\yangxiaoli\370 - 副本\BoardTest-370\obj\Debug\JotStickTest.csproj.GenerateResource.Cache
+E:\yangxiaoli\370 - 副本\BoardTest-370\obj\Debug\JoyStick测试.exe
+E:\yangxiaoli\370 - 副本\BoardTest-370\obj\Debug\JoyStick测试.pdb
+E:\yangxiaoli\JoyStickTest\JoyStickTest\bin\Debug\JoyStick测试.exe.config
+E:\yangxiaoli\JoyStickTest\JoyStickTest\bin\Debug\JoyStick测试.exe
+E:\yangxiaoli\JoyStickTest\JoyStickTest\bin\Debug\JoyStick测试.pdb
+E:\yangxiaoli\JoyStickTest\JoyStickTest\bin\Debug\Microsoft.DirectX.DirectInput.dll
+E:\yangxiaoli\JoyStickTest\JoyStickTest\bin\Debug\Microsoft.DirectX.dll
+E:\yangxiaoli\JoyStickTest\JoyStickTest\obj\Debug\JoyStickTest.frmMain.resources
+E:\yangxiaoli\JoyStickTest\JoyStickTest\obj\Debug\JoyStickTest.Properties.Resources.resources
+E:\yangxiaoli\JoyStickTest\JoyStickTest\obj\Debug\JoyStickTest.ucJoyStick.resources
+E:\yangxiaoli\JoyStickTest\JoyStickTest\obj\Debug\JotStickTest.csproj.GenerateResource.Cache
+E:\yangxiaoli\JoyStickTest\JoyStickTest\obj\Debug\JoyStick测试.exe
+E:\yangxiaoli\JoyStickTest\JoyStickTest\obj\Debug\JoyStick测试.pdb
+E:\projects\other tools\JoyStickTest\JoyStickTest\bin\Debug\JoyStick测试.exe.config
+E:\projects\other tools\JoyStickTest\JoyStickTest\obj\Debug\JoyStick测试.exe
+E:\projects\other tools\JoyStickTest\JoyStickTest\obj\Debug\JoyStick测试.pdb
